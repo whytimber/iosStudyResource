@@ -12,3 +12,9 @@
 - [轻量级iOS开发框架nimbus](https://github.com/jverkoey/nimbus)
 - [仿微信聊天JLWeChat](https://github.com/jimneylee/JLWeChat-iPhone)
 - [基于xmpp聊天的开源框架xmppframework](https://github.com/robbiehanson/XMPPFramework)
+- [360度全景展示](https://github.com/heroims/HelloPanoramaGL)
+
+## ios 开发语言
+
+- [swift学习](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
+
