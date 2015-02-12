@@ -30,7 +30,7 @@
 [猫·仁波切](https://andelf.github.io/) | [煲仔饭](http://ivoryxiong.org/)
 [里脊串的开发随笔](http://adad184.com) | [Chun Tips](http://chun.tips/)
 [Why's blog - 汪海的实验室](http://blog.callmewhy.com/) | [Kenshin Cui's Blog](http://www.cnblogs.com/kenshincui/)
-[技术哥的博客](http://suenblog.duapp.com/) 
+[技术哥的博客](http://suenblog.duapp.com/) |
 ## ios 开源项目集合
 - [Github-iOS开源项目集合](http://github.ibireme.com/github/list/ios/)
 
