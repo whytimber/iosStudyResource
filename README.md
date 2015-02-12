@@ -4,6 +4,8 @@
 - [<<码农周刊>>干货精选（Android + iOS 篇） - 孢子社区 : 一起玩，不孤单](http://baoz.cn/452378)
 - [Code4App-iOS开发-iOS 开源代码库-iOS代码实例搜索-iOS特效示例-iOS代码例子下载-Code4App.com](http://www.code4app.com/)
 - [开源中国 - 找到您想要的开源项目，分享和交流](http://www.oschina.net/)
+- [博客园 - 开发者的网上家园](http://www.cnblogs.com/)
+- [CSDN.NET - 全球最大中文IT社区，为IT专业技术人员提供最全面的信息传播和服务平台](http://www.csdn.net/)
 
 ##中文 iOS/Mac 开发博客列表
 博客地址 | 博客地址 | 博客地址 | 博客地址
