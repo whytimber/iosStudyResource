@@ -55,8 +55,8 @@
 [Why's blog - 汪海的实验室](http://blog.callmewhy.com/) | <http://blog.callmewhy.com/atom.xml>
 [Kenshin Cui's Blog](http://www.cnblogs.com/kenshincui/) | <http://www.cnblogs.com/kenshincui/rss>
 [技术哥的博客](http://suenblog.duapp.com/) | <http://suenblog.duapp.com/rss/>
-## ios 开源项目
-- [Github-iOS备忘](http://github.ibireme.com/github/list/ios/)
+## ios 开源项目集合
+- [Github-iOS开源项目集合](http://github.ibireme.com/github/list/ios/)
 
 ## ios 功能模块
 - [网络模块AFNetworking](https://github.com/AFNetworking/AFNetworking)
