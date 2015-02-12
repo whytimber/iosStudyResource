@@ -3,6 +3,7 @@
 - [DevDiv开发者社区，为移动设备、移动互联网、云计算、HTML5等技术人员提供专业技术交流与服务平台](http://www.devdiv.com/)
 - [<<码农周刊>>干货精选（Android + iOS 篇） - 孢子社区 : 一起玩，不孤单](http://baoz.cn/452378)
 - [Code4App-iOS开发-iOS 开源代码库-iOS代码实例搜索-iOS特效示例-iOS代码例子下载-Code4App.com](http://www.code4app.com/)
+- [开源中国 - 找到您想要的开源项目，分享和交流](http://www.oschina.net/)
 
 ##中文 iOS/Mac 开发博客列表
 博客地址 | 博客地址 | 博客地址 | 博客地址
