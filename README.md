@@ -3,6 +3,7 @@
 - [Custom Controls for iOS and OS X - Cocoa Controls](cocoacontrols.com)
 - [Code4App-iOS开发-iOS 开源代码库-iOS代码实例搜索-iOS特效示例-iOS代码例子下载](http://www.code4app.com/)
 - [开源中国 - 找到您想要的开源项目，分享和交流](http://www.oschina.net/)
+- [App开发日报 | app.memect.com | 好东西传送门出品流](http://app.memect.com/)
 - [NSHipster](http://nshipster.com/)
 - [objc中国](http://objccn.io/)
 - [Ray Wenderlich | Tutorials for iPhone / iOS Developers and Gamers](http://www.raywenderlich.com/)
