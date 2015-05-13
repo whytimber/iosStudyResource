@@ -1,5 +1,8 @@
 ## ios 学习站点
 - [CocoaChina 苹果开发中文站 - 最热的iPhone开发社区 最热的苹果开发社区 最热的iPad开发社区](http://www.cocoachina.com/)
+- [Ray Wenderlich | Tutorials for iPhone / iOS Developers and Gamers](http://www.raywenderlich.com/)
+- [AppCoda Community - Learn iOS Programming and Build iPhone App](http://www.appcoda.com)
+- [iOS App Development — Medium](https://medium.com/ios-os-x-development)
 - [Custom Controls for iOS and OS X - Cocoa Controls](cocoacontrols.com)
 - [Code4App-iOS开发-iOS 开源代码库-iOS代码实例搜索-iOS特效示例-iOS代码例子下载](http://www.code4app.com/)
 - [开源中国 - 找到您想要的开源项目，分享和交流](http://www.oschina.net/)
